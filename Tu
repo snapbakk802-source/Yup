@@ -1,0 +1,3 @@
+git remote add phonetrack https://github.com/julien-nc/phonetrack.git
+git fetch phonetrack
+git subtree add --prefix=phonetrack phonetrack master
